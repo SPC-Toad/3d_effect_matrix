@@ -41,10 +41,8 @@ This project demonstrates 3D graphics using Matplotlib in Python. It allows user
 - NumPy
 
 ## Example Run
+https://github.com/SPC-Toad/3d_effect_matrix/assets/111462911/597cd8ba-0bf3-4b82-b030-9d763a92404d
 
-<video controls>
-  <source src="./recording.mp4" type="video/mp4">
-</video>
 
 
 
